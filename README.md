@@ -67,6 +67,4 @@ The frontend currently displays a basic interface. Replace it with your desired 
 - Extend the backend APIs in the `app.py` file.
 - Customize the frontend as needed.
 
-## License
 
-This project is licensed under the MIT License.
