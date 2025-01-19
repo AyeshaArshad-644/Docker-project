@@ -1,14 +1,14 @@
-# Recipe Master - A Recipe Finder App
+**Recipe Finder App**
 
 This project is a microservices-based web application with three main services: a backend, a MongoDB database, and a frontend. The application is containerized and managed using Docker Compose.
 
-## Features
+**Services**
 
 1. **Backend**: A Flask application that provides APIs for recipe management.
 2. **Database**: A MongoDB instance to store recipe data.
 3. **Frontend**: A React/Angular-based user interface for interacting with the application.
 
-## Prerequisites
+## software used
 
 - Docker
 - Docker Compose
@@ -53,9 +53,7 @@ This project is a microservices-based web application with three main services: 
 - **`POST /recipes`**: Add a new recipe.
 - **`GET /external`**: Example external API call.
 
-## Volumes
 
-- MongoDB data is persisted in a Docker volume named `mongo_data`.
 
 ## Frontend Placeholder
 
